@@ -1,0 +1,99 @@
+.nav-bar1{
+    background-color: #33475b !important;
+    display: flex;
+    flex-wrap: inherit;
+    align-items: flex-end !important;
+    color: white;
+    justify-content: left !important;
+}
+.pad0{
+    padding: 0 !important;
+}
+.welcome-section{
+    background: linear-gradient(90deg,#f2ad83 0,#de80a2 21.67%,#b951c0 49.27%,#8954c8 73.75%,#4357d0 99.99%,#4357d0 100%);
+    height: 177px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* margin-left: 2%; */
+}
+.inner-welcome{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 2%;
+}
+.section-2{
+    display: -webkit-box;
+    display: flex;
+    gap: 10px;
+    padding-right: 35px;
+    padding-top: 20px;
+}
+/* .holiday-section {
+    font-size: 16px;
+    font-family: Poppins;
+} */
+.holiday-box{
+    height: 135px;
+    width: 300px;
+    border-radius: 6px;
+    background: #0d133466;
+    color: #fff;
+    /* position: relative; */
+}
+.message{
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+    background: 0 0;
+    margin-bottom: 0;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.welcome-text{
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    margin-left: 20px;
+}
+.bold-headings{
+    font-weight: bold;
+}
+.margins{
+    margin: 4%
+}
+.innercard1{
+    /* padding: 0px 15px;
+    background-color:#FFFFFF;
+    border: 1px solid #ededed;
+    border-radius: 4px;
+    margin-bottom: 30px;
+    height: 250px; */
+    box-shadow: 1px 1px 2px;
+}
+.vendor-image{
+    border-radius: 50%;
+    border: 5px solid white;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+.heading-link{
+    font-size: 20px !important;
+    color: blue;
+}
+.bold-heading{
+    font-weight: bold;
+}
