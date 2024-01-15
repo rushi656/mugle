@@ -36,11 +36,13 @@
 } */
 .holiday-box{
     height: 135px;
-    width: 300px;
+    display: flex;
+    align-items: center;
     border-radius: 6px;
     background: #0d133466;
     color: #fff;
-    /* position: relative; */
+    padding:20px
+   
 }
 .message{
     font-size: 16px;
@@ -96,4 +98,10 @@
 }
 .bold-heading{
     font-weight: bold;
+}
+@media only screen and (max-width: 768px) {
+    /* Styles for tablets */
+}
+.mt2{
+    margin-top:1%;
 }
