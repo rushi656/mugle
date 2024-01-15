@@ -27,8 +27,8 @@
     display: -webkit-box;
     display: flex;
     gap: 10px;
-    padding-right: 35px;
-    padding-top: 20px;
+    padding-right: 4px;
+    padding-top: 1px;
 }
 /* .holiday-section {
     font-size: 16px;
@@ -41,7 +41,7 @@
     border-radius: 6px;
     background: #0d133466;
     color: #fff;
-    padding:20px
+    padding:10px
    
 }
 .message{
